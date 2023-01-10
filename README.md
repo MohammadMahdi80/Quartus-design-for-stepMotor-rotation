@@ -7,3 +7,8 @@ implementation step motor rotation in gate level in quartus.
 ## final design:
 >![image](https://user-images.githubusercontent.com/82968741/211435100-ff82e504-810c-4b97-bd50-380b699a3b50.png)
 
+
+## explain of circuit:
+* [doc.pdf](https://github.com/MohammadMahdi80/Quartus-design-for-stepMotor-rotation/files/10377922/doc.pdf)
+
+
